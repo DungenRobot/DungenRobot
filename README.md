@@ -17,6 +17,6 @@ I'm learning Rust, C, and C++.
 - A time-traveling point and click adventure game
 - An extension for Godot that implements Rust's [Chrono](https://docs.rs/chrono/latest/chrono/) library and IANA timezones.
 - A (basic) VR social game with voice chat and worlds!
-- A big 'ol space game
+- Some sort of space game
 - Lots of multiplayer prototypes
 - Your project? (open to freelance)
