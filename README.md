@@ -16,7 +16,7 @@ I'm learning Rust, C, and C++.
 - [Working through Advent of Code 2024](https://github.com/DungenRobot/advent-of-code-2024)!
 - A time-traveling point and click adventure game
 - An extension for Godot that implements Rust's [Chrono](https://docs.rs/chrono/latest/chrono/) library and IANA timezones.
-- A (basic) VR social game with voice chat and worlds!
+- [A (basic) VR social game with voice chat and worlds!](https://github.com/FiresideXR)
 - Some sort of space game
 - Lots of multiplayer prototypes
 - Your project? (open to freelance)
